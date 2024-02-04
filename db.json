@@ -1,0 +1,205 @@
+{
+  "posts": [
+      {
+          "id": 1,
+          "title": "Hello World"
+      },
+      {
+          "id": 2,
+          "title": "React is awesome"
+      }
+  ],
+  "categories": [
+      {
+          "name": "Fashion",
+          "sub_categories": [
+              "Men's Fashion",
+              "Women's Fashion",
+              "Kids' Fashion"
+          ]
+      },
+      {
+          "name": "Electronics",
+          "sub_categories": [
+              "Smartphones",
+              "Laptops",
+              "Audio Devices"
+          ]
+      },
+      {
+          "name": "Home & Living",
+          "sub_categories": [
+              "Furniture",
+              "Decor",
+              "Kitchen Appliances"
+          ]
+      },
+      {
+          "name": "Books",
+          "sub_categories": [
+              "Fiction",
+              "Non-Fiction",
+              "Science Fiction"
+          ]
+      }
+  ],
+  "main_menu_nav_items": [
+      {
+          "name": "Home",
+          "sub_categories": [
+              "Fashion",
+              "Electronics",
+              "Home & Living"
+          ]
+      },
+      {
+          "name": "Products",
+          "sub_categories": [
+              "Clothing",
+              "Electronics",
+              "Furniture"
+          ]
+      },
+      {
+          "name": "Deals",
+          "sub_categories": [
+              "Flash Sales",
+              "Discounts",
+              "Special Offers"
+          ]
+      },
+      {
+          "name": "Contact",
+          "sub_categories": [
+              "Customer Support",
+              "Feedback",
+              "Help Center"
+          ]
+      }
+  ],
+  "home_banner_content": [
+      {
+          "label": "Fashionable collection",
+          "description": "Get free shipping on all",
+          "image": "https://bazaar.ui-lib.com/assets/images/products/nike-black.png"
+      },
+      {
+          "label": "Fashionable 2",
+          "image": "https://bazaar.ui-lib.com/assets/images/products/bag.png",
+          "description": "Get free shipping on all"
+      }
+  ],
+  "product_items":[
+    {
+      "id": 1,
+      "name": "Cotton T-Shirt",
+      "type": "Shirt",
+      "price": 19.99,
+      "color": "Blue",
+      "size": "M",
+      "rating": "3/5",
+      "reviews": 10,
+      "category": "Men's Fashion"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jeans",
+      "type": "Pants",
+      "price": 39.99,
+      "color": "Black",
+      "size": "L",
+      "rating": "4/5",
+      "reviews": 15,
+      "category": "Men's Fashion"
+    },
+    {
+      "id": 3,
+      "name": "Casual Sneakers",
+      "type": "Shoes",
+      "price": 29.99,
+      "color": "White",
+      "size": "9",
+      "rating": "4.5/5",
+      "reviews": 20,
+      "category": "Men's Footwear"
+    },
+    {
+      "id": 4,
+      "name": "Hooded Sweatshirt",
+      "type": "Jacket",
+      "price": 49.99,
+      "color": "Gray",
+      "size": "XL",
+      "rating": "4.2/5",
+      "reviews": 18,
+      "category": "Men's Fashion"
+    },
+    {
+      "id": 5,
+      "name": "Slim Fit Chinos",
+      "type": "Pants",
+      "price": 34.99,
+      "color": "Beige",
+      "size": "M",
+      "rating": "4.7/5",
+      "reviews": 25,
+      "category": "Men's Fashion"
+    },
+    {
+      "id": 6,
+      "name": "Leather Belt",
+      "type": "Accessory",
+      "price": 14.99,
+      "color": "Brown",
+      "size": "One Size",
+      "rating": "4.0/5",
+      "reviews": 12,
+      "category": "Men's Accessories"
+    },
+    {
+      "id": 7,
+      "name": "Classic Polo Shirt",
+      "type": "Shirt",
+      "price": 24.99,
+      "color": "Red",
+      "size": "L",
+      "rating": "4.3/5",
+      "reviews": 22,
+      "category": "Men's Fashion"
+    },
+    {
+      "id": 8,
+      "name": "Running Shoes",
+      "type": "Shoes",
+      "price": 49.99,
+      "color": "Blue",
+      "size": "10",
+      "rating": "4.8/5",
+      "reviews": 30,
+      "category": "Men's Footwear"
+    },
+    {
+      "id": 9,
+      "name": "V-Neck Sweater",
+      "type": "Sweater",
+      "price": 44.99,
+      "color": "Green",
+      "size": "M",
+      "rating": "4.5/5",
+      "reviews": 28,
+      "category": "Men's Fashion"
+    },
+    {
+      "id": 10,
+      "name": "Formal Dress Shoes",
+      "type": "Shoes",
+      "price": 59.99,
+      "color": "Black",
+      "size": "9",
+      "rating": "4.6/5",
+      "reviews": 26,
+      "category": "Men's Footwear"
+    }
+  ]
+  
+}
